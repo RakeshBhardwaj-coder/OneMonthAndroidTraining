@@ -1,0 +1,6 @@
+add menu file 
+
+right click add menu folder in res
+ then make menu.xml now script will work
+ 
+
